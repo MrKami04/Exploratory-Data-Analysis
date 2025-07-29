@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This repo about eda..
+this repo about EDA...
